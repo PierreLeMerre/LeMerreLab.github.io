@@ -1,0 +1,24 @@
+# Site settings
+title: Pierre Le Merre
+email: pierrepierrepierre.lemerre@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Personal website of Pierre Le Merre
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.pierrelemerre.com/" # the base hostname & protocol for your site
+twitter_username: Pierre_Le_Merre
+github_username:  PierreLeMerre
+
+google_analytics: G-GX2GX7NSVV
+
+# for localhost, uncomment
+# Configuration file: /Users/pierre/Documents/Github/PierreLeMerre.github.io/_config.yml
+# source: /Users/pierre/Documents/Github/PierreLeMerre.github.io/
+# destination: /Users/pierre/Documents/Github/PierreLeMerre.github.io/_site
+# plugins_dir: /Users/pierre/Documents/Github/PierreLeMerre.github.io/_plugins
+
+source:      .
+destination: ./_site
+plugins_dir: ./_plugins
+
+# Build settings
+markdown: kramdown

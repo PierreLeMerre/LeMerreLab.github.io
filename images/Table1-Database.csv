@@ -1,0 +1,101 @@
+Year;Ref Short;Area Name;Inactivation Method;AP;ML;DV;DV origin;Mean AP;Mean ML;Mean DV;Corrected DV;Brain Surface DV Corr;Complexity index;Sensory Modality;Task type;in MOs;in ACA;inPL;in ILA;in ORBm;in ORBvl;in ORBl;Allen Atlas Annotation (2017)
+2018;Abbas et al., Neuron, 2018;mPFC;Phtoinhibition;1,85;0,35;1,3;DV brain surface;1,85;0,35;1,3;2,065;0,765;4;6;3;false;false;true;false;false;false;false;PL
+2017;Allen et al., Neuron, 2017;ALM;Photoinhibition, Muscimol;2,4;2;0,5;DV brain surface;2,4;2;0,5;1,685;1,185;4;4;1;true;false;false;false;false;false;false;MOs
+2018;Allsop et al., Cell, 2018;ACC;Phtoinhibition;1;0,3;2,1;DV bregma;1;0,3;2,1;2,1;0;7;6;3;false;true;false;false;false;false;false;ACA
+2018;Baltz et al., 2018;OFC;Photoinhibition (PV-ChR2)/ Chemogenetics (hMD4);2,7;1,67;2,65;DV Bregma;2,7;1,67;2,65;2,65;0;5;6;2;true;false;false;false;false;false;false;ORBl
+2020;Bari et al., 2020;dmPFC;Photoactivation (ChR2);1,7;0,3;2;DV brain surface;1,7;0,3;2;2,745;0,745;7;2;3;false;false;true;false;false;false;false;PL
+2019;Bari et al., Neuron 2019;mPFC;Muscimol (bilateral);2,5;0,5;1;DV brain surface;2,5;0,4;1,25;2,295;1,045;5;4;1;false;false;true;false;false;false;false;PL
+2020;Bariselli et al,. 2020;OFC;Photoactivation (ChR2);2,5;1,1;2,5;DV brain surface;2,5;1,1;2,5;3,415;0,915;2;6;1;false;false;false;false;false;false;true;ORBvl
+2017;Barker et al., 2017;IfL-C;Photoinhibition (arch);1,3-2;0,2-0,4;3;DV Bregma;1,65;0,3;3;3;0;3;6;2;false;false;false;true;false;false;false;ILA
+2015;Beier et al., Cell, 2015;mPFC;Photoactivation;1,95-2,25;0,27;1,6-2,1;DV brain surface;2,1;0,27;1,85;2,815;0,965;6;6;2;false;false;false;true;false;false;false;ILA
+2019;Berg et al., 2017;IL;Photoactivation (Pyr- ChR2);1,66;0,3;1,6-2;DV brain surface;1,66;0,3;1,8;2,535;0,735;2;6;1;false;false;true;false;false;false;false;PL
+2017;Bolkan et al., Nat Neurosci, 2017;mPFC;Phtoinhibition;1,75;0,4;1,8;DV brain surface;1,75;0,4;1,8;2,485;0,685;5;6;3;false;false;true;false;false;false;false;PL
+2019;Breton-Provencher and Sur, Nat Neurosci, 2019;OFC;Photoactivation;2,6;1,3;2;DV bregma;2,6;1,3;2;2;0;1;1;1;false;false;false;false;false;false;true;ORBl
+2015;Bukalo et al., Neuropsychology, 2015;vmPFC;Photoinhibition;1,8;0,3;2,8;DV bregma;1,8;0,3;2,8;2,8;0;5;6;2;false;false;false;true;false;false;false;ILA
+2017;Carus-Cadavieco et al., 2017;mPFC;Photostimulation and inhibition (eNPAC2);1,7;0,35;2,7;DV Bregma;1,7;0,35;2,7;2,7;0;2;6;1;false;false;true;false;false;false;false;PL
+2019;Cho et al., BioRxiv, 2019;mPFC;Photoactivation;1,7;0,3;2,75;DV bregma;1,7;0,3;2,75;2,75;0;4;6;2;false;false;true;true;false;false;false;ILA
+2015;Cho et al., Neuron, 2015;mPFC;Photoinhibition (arch);1,7;0,3;2,75;DV bregma;1,7;0,3;2,75;2,75;0;4;6;2;false;false;true;true;false;false;false;ILA
+2014;Courtin et al., Nature, 2014;dmPFC;Photoinhibition;2;0,3;0,8-1,4;DV brain surface;2;0,3;1,1;1,985;0,885;6;1;2;false;false;true;false;false;false;false;PL
+2016;Dejean et al., 2016;dmPFC;Photoinhibition (PV-ChR2);2;0,3;0,8-1,4;DV brain surface;2;0,3;1,2;2,085;0,885;5;1;3;false;false;true;false;false;false;false;PL
+2020;Esmaeili et al., 2020;mPFC;Photoinhibition;2;0,5;1,7;DV brain surface;2;0,5;1,7;2,435;0,735;5;6;1;false;false;true;false;false;false;false;PL
+2016;Felix-Ortiz et al., Neuroscience, 2016;mPFC;Photostimulation;1,7;0,3;1,9;DV bregma;1,7;0,3;1,9;1,9;0;6;6;1;false;false;true;false;false;false;false;PL
+2018;Gilad et al., Neuron, 2018;M2;Photoinhibition;1,5;0,5;0,5;DV brain surface;1,5;0,5;0,5;1,035;0,535;6;3;1;true;false;false;false;false;false;false;MOs
+2016;Goard et al., Elife, 2016;fMC;Photoinhibition;1,5;1;0,5;DV brain surface;1,5;1;0,5;0,995;0,495;6;2;1;true;false;false;false;false;false;false;MOs
+2012;Granon and Changeux, Behav Brain Res, 2012;PL;NMDA lesion;1,9-2,8;0,3-0,4;1,5-2,5;DV brain surface;2,35;0,35;2;3,005;1,005;4;6;3;false;false;false;false;true;false;false;ORBm
+2014;Guo et al., Neuron, 2014;ALM;Photoinhibition;2,5;1,5;0,5;DV brain surface;2,5;1,5;0,5;1,525;1,025;7;3;1;true;false;false;false;false;false;false;MOs
+2020;Gutzeit et al., 2020;IL-PFC;Photoactivation (ChR2);1,8;0,3;2,3;DV Bregma;1,8;0,3;2,3;2,3;0;5;6;3;false;false;true;false;false;false;false;PL
+2020;Halladay et al., 2020;vmPFC;Photoinhibition (Arch);1,5-2,5;0,5;2,7;DV Bregma;2;0,5;2,7;2,7;0;5;6;3;false;false;true;true;false;false;false;ILA
+2019;Hare et al., 2019;PL - IL;Photostimulation - DREADD (hM4D);1,9;0,4;2,5;DV Bregma;1,9;0,4;2,5;2,5;0;3;6;1;false;false;true;false;false;false;false;PL
+2020;Heikenfeld et al., 2020;mPFC;Photostimulation and inhibition (eNPAC2);1,5;0,3;3,1;DV Bregma;1,5;0,3;3,1;3,1;0;4;6;3;false;false;false;true;false;false;false;ILA
+2019;Hu et al., Neuron, 2019;Cg;Photoinhibition, Photoactivation;0,3;0,3;1;DV brain surface;0,3;0,3;1;1,235;0,235;5;2;1;false;true;false;false;false;false;false;ACA
+2019;Huang et al., 2019;PL;Photoinhibition (NpHR) - Pharmacological ablation (dtA);1,9;0,5;2,1;DV brain surface;1,9;0,5;2,1;2,795;0,695;3;3;1;false;false;true;true;false;false;false;ILA
+2018;Huda et al., BioRxiv, 2018;ACC;Photoinhibition;0,5;0,5;0,5;DV brain surface;0,5;0,5;0,5;0,705;0,205;8;2;1;true;false;false;false;false;false;false;MOs
+2018;Inagaki et al., J.Neurosci, 2018;ALM;Photoinhibition;2,5;1,5;0,5;DV brain surface;2,5;1,5;0,5;1,525;1,025;6;1;1;true;false;false;false;false;false;false;MOs
+2019;Inagaki et al., Nature, 2019;ALM;Photoinhibition;2,5;1,5;0,5;DV brain surface;2,5;1,5;0,5;1,525;1,025;6;1;1;true;false;false;false;false;false;false;MOs
+2018;Itokazu et al., Nat Commun, 2018;MOs;Photoinhibition;0,7;0,7;0,25;DV brain surface;0,7;0,7;0,25;0,495;0,245;6;2;1;true;false;false;false;false;false;false;MOs
+2019;Jennings et al., Nature, 2019;OFC;Photoactivation;2,6;1,26;2,8;DV bregma;2,6;1,26;2,8;2,8;0;4;6;1;false;false;false;false;false;false;true;ORBl
+2018;Jhang et al., 2018;ACC;Photoactivation and inhibition (eNpHR3, ChR2);0,8;0,35;1,5;DV Bregma;0,8;0,35;1,5;1,5;0;3;4;2;false;true;false;false;false;false;false;ACA
+2017;Kamigaki and Dan, Nat Neurosci, 2017 ;dmPFC;Photoinhibition;1,8-2,1;0,3-0,4;0,8-1,2;DV brain surface;1,95;0,35;1;1,805;0,805;4;1;1;false;true;false;false;false;false;false;ACA
+2016;Kim et al., 2016;IL;Photoactivation and inhibition (eNpHR3, ChR2);1,65;0,3;3,05;DV Bregma;1,65;0,3;3,05;3,05;0;5;1;3;false;false;false;true;false;false;false;ILA
+2016;Kim et al., Cell, 2016a;mPFC;Photoactivation;1,9;0,4;1;DV brain surface;1,9;0,4;1;1,755;0,755;8;6;3;false;true;false;false;false;false;false;ACA
+2016;Kim et al., Cell, 2016b;mPFC;Photoactivation;1,76;0,25;1,25;DV brain surface;1,76;0,25;1,25;2,075;0,825;8;2;3;false;false;true;false;false;false;false;PL
+2017;Kim et al., Cell, 2017;mPFC;Phtoinhibition;2,1;0,35;2,2-2,3;DV bregma;2,1;0,35;2,25;2,25;0;4;1;1;false;false;true;false;false;false;false;PL
+2020;Kingsbury et al., 2020;dmPFC;Photoactivation (ChR2);2;0,3;1,8;DV brain surface;2;0,3;1,8;2,685;0,885;5;6;1;false;false;true;true;false;false;false;ILA
+2017;Klavir et al., Nat Neurosci, 2017;mPFC;Photosactivation;2;0,25;2,25;DV bregma;2;0,25;2,25;2,25;0;5;1;2;false;false;true;false;false;false;false;PL
+2016;Koike et al., Neuropsychopharmacology, 2016;dACC;DREADD (hM4Di);1,7-1,1-0,4;0,2-0,2-0,4;0,7;DV brain surface;1,05;0,3;0,7;1,195;0,495;10;2;3;false;true;false;false;false;false;false;ACA
+2013;Kumar et al., 2013;PrL;Photoactivation (ChR2, thy1-cre);2,65;0,25;0,8;DV brain surface;2,65;0,25;0,8;2,085;1,285;2;6;1;false;false;true;false;false;false;false;PL
+2018;Lak et al., BioRxiv, 2018;PL;VTA photoinhibition;1,8;0,3;1,4;DV brain surface;1,8;0,3;1,4;2,185;0,785;7;2;1;false;false;true;false;false;false;false;PL
+2018;Le Merre et al., Neuron, 2018;mPFC;Photoinhibition, Muscimol;1,8;0,3;1,75;DV brain surface;1,8;0,3;1,75;2,535;0,785;2;3;1;false;false;true;false;false;false;false;PL
+2019;Lee et al., Neuron, 2019;mPFC;Photoinhibition (arch);1,7;0,3;2,75;DV bregma;1,7;0,3;2,75;2,75;0;2;6;1;false;false;true;true;false;false;false;ILA
+2017;Leinweber et al., Neuron, 2017;A24b;Muscimol;1;0,3;0,5;DV brain surface;1;0,3;0,5;0,975;0,475;6;2;1;true;false;false;false;false;false;false;MOs
+2020;Li et al., 2020;dmPFC;Photoactivation and inhibition (iC++, ChR2);1;0,5;0,8;DV brain surface;1;0,5;0,8;1,165;0,365;5;1;1;true;false;false;false;false;false;false;MOs
+2015;Li et al., Nature, 2015;ALM;Photoinhibition;2,5;1,5;0,5;DV brain surface;2,5;1,5;0,5;1,525;1,025;7;3;1;true;false;false;false;false;false;false;MOs
+2016;Li et al., Nature, 2016;ALM;Photoinhibition;2,5;1,5;0,5;DV brain surface;2,5;1,5;0,5;1,525;1,025;7;3;1;true;false;false;false;false;false;false;MOs
+2016;Liu et al., 2016;IL;SSFO;1,75;0,45;2,8;DV Bregma;1,75;0,45;2,8;2,8;0;4;6;2;false;false;true;true;false;false;false;ILA
+2014;Liu et al., Science, 2014;mPFC;Photoinhibition, DREADD (hM4Di);1,96;0,42;1,62;DV brain surface;1,96;0,42;1,62;2,385;0,765;6;4;3;false;false;true;false;false;false;false;PL
+2017;Makino et al., Neuron, 2017;M2;Muscimol;2,6;1;0,5;DV brain surface;2,6;1;0,5;1,455;0,955;4;1;1;true;false;false;false;false;false;false;MOs
+2015;Manita et al., Neuron, 2015;M2;Photoinhibition, TTX, CNQX;2,19;0,63;0,5;DV brain surface;2,19;0,63;0,5;1,275;0,775;3;3;1;true;false;false;false;false;false;false;MOs
+2015;Manita et al., Neuron, 2015;M2;Photoinhibition, TTX, CNQX;2,19;0,63;0,5;DV brain surface;2,19;0,63;0,5;1,275;0,775;5;3;1;true;false;false;false;false;false;false;MOs
+2018;Marton et al., J. of Neuro, 2018;mPFC;Phtoinhibition;1,7;0,3;2,75;DV bregma;1,7;0,3;2,75;2,75;0;4;6;2;false;false;true;true;false;false;false;ILA
+2019;Mayrhofer et al., Neuron, 2019;ALM;Photoinhibition;2,5;1,5;0,5;DV brain surface;2,5;1,5;0,5;1,525;1,025;3;6;1;true;false;false;false;false;false;false;MOs
+2017;Morandel et al., Scientific reports, 2017;RFA;Photoinhibition;2,7;0,9;0,5;DV brain surface;2,7;0,9;0,5;1,505;1,005;9;3;1;true;false;false;false;false;false;false;MOs
+2012;Morawska and Fendt, 2012;mPFC;Muscimol;1,6;0,5;2,1;DV brain surface;1,6;0,5;2,1;2,675;0,575;5;1;3;false;false;true;false;false;false;false;PL
+2017;Murugan et al., Cell, 2017;PL;Photoinhibition;1,8;0,5;2,5;DV bregma;1,8;0,5;2,5;2,5;0;6;6;3;false;false;true;false;false;false;false;PL
+2019;Nakajima et al., 2019;PFC;Photoinhibition (eArch3);2,6;0,6;1;DV brain surface;2,6;0,6;1;1,995;0,995;10;6;2;false;false;true;false;false;false;false;PL
+2018;Nakayama et al., 2018;mPFC;Photoactivation and inhibition (Arch, ChR2);1,9-2,0;0,5;1,6;DV brain surface;1,95;0,5;1,6;2,315;0,715;4;6;2;false;false;true;false;false;false;false;PL
+2019;Namboodiri et al., 2019;vmOFC;Photoinhibition (NpHR3);2,5-2,9;1-1,1;2,3;DV brain surface;2,7;1,05;2,3;3,315;1,015;4;1;1;false;false;false;false;false;true;true;ORBvl
+2019;Newmyer et al., 2019;IL;Photoactivation (ChR2, SSFO);1,8;0,4;1,8;DV brain surface;1,8;0,4;1,8;2,505;0,705;2;6;1;false;false;true;false;false;false;false;PL
+2020;Nguyen et al., 2020;mPFC;Photoactivation and inhibition (Arch, ChR2);1,9;0,3;2,3;DV Bregma;1,9;0,3;2,3;2,3;0;5;4;3;false;false;true;false;false;false;false;PL
+2017;Otis et al., Nature, 2017;PFC;Photoinhibition, Photoactivation;1,85;0,6;2,5;DV bregma;1,85;0,6;2,5;2,5;0;4;1;1;false;false;true;false;false;false;false;PL
+2019;Padilla-Coreano et al., Neuron, 2019;mPFC;Phtoactivation;1,6;0,4;1,25;DV brain surface;1,6;0,4;1,25;1,885;0,635;2;6;1;false;true;true;false;false;false;false;PL
+2018;Pascoli et al., Nature, 2018;OFC;Photoactivation;2,6;1,6;1,8;DV brain surface;2,6;1,6;1,8;2,905;1,105;5;6;2;false;false;false;false;false;false;true;ORBl
+2015;Pinto and Dan, Neuron, 2015;dmPFC;Muscimol;2,1;0,3;1,6;DV brain surface;2,1;0,3;1,6;2,535;0,935;5;1;1;false;false;true;false;false;false;false;PL
+2019;Pinto et al., Cell, 2019;aM2;Photoinhibition;2,5;0,25;0,5;DV brain surface;2,5;0,25;0,5;1,705;1,205;6;2;1;false;true;false;false;false;false;false;ACA
+2019;Pinto et al., Cell, 2019;aM2;Photoinhibition;2,5;0,25;0,5;DV brain surface;2,5;0,25;0,5;1,705;1,205;7;2;1;false;true;false;false;false;false;false;ACA
+2016;Popescu et al., PNAS, 2016;mPFC;Photoactivation (DA);1,97;0,4;1,6-1,7;DV brain surface;1,97;0,4;1,65;2,435;0,785;2;1;1;false;false;true;false;false;false;false;PL
+2015;Rajasethupathy et al., 2015;AC;Photoactivation and inhibition (eNpHR3, ChR2);1;0,3;1,2;DV brain surface;1;0,3;1,2;1,675;0,475;6;6;3;false;true;false;false;false;false;false;ACA
+2018;Rikhye et al., Nat Neurosci, 2018;PFC;Photoinhibition;2,1-2,7;0,25-0,6;1,2-1,7 (ant) and 2-2,4 (post);DV brain surface;2,4;0,43;1,83;2,805;0,975;10;6;2;false;false;false;false;true;false;false;ORBm
+2018;Rozeske et al., Neuron, 2018;dmPFC;Photoinhibition;1,98;0,35;1,5;DV brain surface;1,98;0,35;1,5;2,325;0,825;7;6;2;false;false;true;false;false;false;false;PL
+2017;Schmitt et al., Nature, 2017;PFC;Photoinhibition, SSFO;2;0,6;1,2-1,7 (ant) and 2-2,4 (post);DV brain surface;2;0,6;1,83;2,525;0,695;10;6;2;false;false;true;false;false;false;false;PL
+2014;Schneider et al., Nature, 2014;M2;Photoactivation;1;0,5;0,5;DV brain surface;1;0,5;0,5;0,865;0,365;2;6;1;true;false;false;false;false;false;false;MOs
+2020;Sheggia et al., 2020;mPFC;Photoactivation and inhibition (eNpHR3, ChR2);1,9;0,3;2,4;DV Bregma;1,9;0,3;2,4;2,4;0;5;6;1;false;false;true;false;false;false;false;PL
+2016;Siniscalchi et al, Nat Neurosci, 2016;M2;Muscimol;1,5;0,5;0.5;DV brain surface;1,5;0,5;0,5;1,035;0,535;7;1;2;true;false;false;false;false;false;false;MOs
+2019;Spellman et al., BioRxiv, 2019;PFC;Muscimol / Photoinhibition (stGtACR2);1,75;0,35;1,75;DV brain surface;1,75;0,35;1,75;2,475;0,725;7;6;2;false;false;true;false;false;false;false;PL
+2015;Spellman et al., Nature, 2015;mPFC;Photoinhibition;1,8;0,4;1,4;DV brain surface;1,8;0,4;1,4;2,105;0,705;4;1;3;false;false;true;false;false;false;false;PL
+2018;Starkweather et al., Neuron, 2018;mPFC;DREADD (KORD);2,7;0,25;0,6;DV brain surface;2,7;0,25;0,6;1,925;1,325;3;6;1;false;false;true;false;false;false;false;PL
+2017;Tamura et al., Nat Commun, 2017;mPFC;Photoinhibition;1,6;0,3;1,4;DV brain surface;1,6;0,3;1,4;2,105;0,705;4;4;3;false;false;true;false;false;false;false;PL
+2019;Tan et al., 2019;PFC;Photoactivation (ChR2);2,25;0,45;1,2;DV brain surface;2,25;0,45;1,2;2,075;0,875;6;6;1;false;false;true;false;false;false;false;PL
+2018;Tuscher et al., 2018;mPFC;DREADD (hM4Di);1,8;0,3;2,7;DV Bregma;1,8;0,3;2,7;2,7;0;5;6;1;false;false;true;false;false;false;false;ILA
+2013;Van den Oever et al., 2013;vmPFC;Photoactivation and inhibition (eNpHR3, ChR2);2,2;0,4;3;DV Bregma;2,2;0,4;3;3;0;5;6;3;false;false;false;false;true;false;false;ORBm
+2020;Vertechi et al., 2020;OFC;Photoinactivation (ChR2, Vgat);2,9;1,25;1,8;DV brain surface;2,9;1,25;1,8;2,965;1,165;3;6;1;false;false;false;false;false;false;true;ORBl
+2018;White et al., Cell Rep, 2018;ACC;Photoinhibition;0,74-1,34;0,3;1-1,25;DV bregma;1,04;0,3;1,13;1,13;0;10;6;3;true;false;false;false;false;false;false;MOs
+2015;Wimmer et al., Nature, 2015;mPFC;Photoinhibition;2,6;0,25;1,25;DV brain surface;2,6;0,25;1,25;2,505;1,255;10;1;2;false;false;true;false;true;false;false;PL
+2020;Wu et al., 2020;ALM;Photoinhibition;2,5;1,5;1,1;DV Bregma;2,5;1,5;1,1;1,1;0;8;4;3;true;false;false;false;false;false;false;MOs
+2019;Xu et al., BioRxiv 2019;ALM;Photoinhibition;2,2;1,5;1,3;DV brain surface;2,2;1,5;1,3;2,185;0,885;3;3;1;true;false;false;false;false;false;false;MOs
+2020;Yamamuro et al., 2020;mPFC;Photoactivation and inhibition (eNpHR3, ChR2), DREADD )hMD4);1,3-2,3;0,4;1-1,7;DV brain surface;1,8;0,4;1,35;2,055;0,705;6;6;1;false;false;true;false;false;false;false;PL
+2016;Ye et al., Cell, 2016;mPFC;Photoactivation;1,9;0,35;2,6;DV bregma;1,9;0,35;2,6;2,6;0;2;6;1;false;false;true;false;false;false;false;PL
+2011;Yizhar et al., Nature, 2011;mPFC;SSFO;1,8;0,35;2,0-2,85;DV bregma;1,8;0,35;2,43;2,43;0;5;6;1;false;false;true;false;false;false;false;PL
+2015;Zhang et al., 2015;PrL;Photoactivation and inhibition (Arch, ChR2);1,8;0,5;2,2;DV Bregma;1,8;0,5;2,2;2,2;0;4;6;1;false;false;true;false;false;false;false;PL
+2014;Zhang et al., Science, 2014;Cg;Photoactivation;0,2;0,3;0,9;DV brain surface;0,2;0,3;0,9;1,105;0,205;5;1;1;false;true;false;false;false;false;false;ACA
+2020;Zhu et al., 2020;PrL;Photoinhibition;1,98;0,4;1,65;DV brain surface;1,98;0,4;1,65;2,435;0,785;6;4;3;false;false;true;false;false;false;false;PL
+2017;Zimmermann et al., Biol. Psychiatry, 2017;OFC;DREADD (BDNF KO);2,5;1,7;1,8;DV bregma;2,5;1,7;1,8;1,8;0;4;6;2;true;false;false;false;false;false;false;MOs
