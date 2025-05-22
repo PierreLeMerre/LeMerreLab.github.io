@@ -1,1 +1,1 @@
-# PierreLeMerre.github.io
+# LeMerreLab.github.io

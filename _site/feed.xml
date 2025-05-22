@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pierre Le Merre</title>
+    <title>Le Merre Lab</title>
     <description>Personal website of Pierre Le Merre
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 22 May 2025 16:19:44 +0200</pubDate>
-    <lastBuildDate>Thu, 22 May 2025 16:19:44 +0200</lastBuildDate>
+    <pubDate>Thu, 22 May 2025 16:53:35 +0200</pubDate>
+    <lastBuildDate>Thu, 22 May 2025 16:53:35 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
-    
-      <item>
-        <title>Teppish people</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/logo_teppish.png&quot; class=&quot;fit image&quot; /&gt;
-Teppish people is a downtempo musical crew organizing parties and releasing cool mixes.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 08 Dec 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2022/12/08/Teppish-People.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/12/08/Teppish-People.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Cloud people</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/cloud foresft.jpg&quot; class=&quot;fit image&quot; /&gt;
-Cloud people is a musical project originating from french countryside landscapes merging acoustic and electronic instruments.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 11 Jul 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2020/07/11/Cloud-People.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/07/11/Cloud-People.html</guid>
-        
-        
-      </item>
     
   </channel>
 </rss>
