@@ -1179,22 +1179,22 @@ section video {
 		}
 
 /* igraph class */
-#igraph {
-    width: 100%;
-    height: 800px;
-    border: none;
+
+.iframe-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  overflow: hidden;
 }
 
-@media screen and (max-width: 768px) {
-    #igraph {
-        height: 500px;
-    }
-}
-
-@media screen and (max-width: 480px) {
-    #igraph {
-        height: 350px;
-    }
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
 }
 
 
