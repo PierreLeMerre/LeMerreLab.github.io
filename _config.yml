@@ -18,7 +18,7 @@ google_analytics: G-GX2GX7NSVV
 
 source:      .
 destination: ./_site
-plugins_dir: ./_plugins
+#plugins_dir: ./_plugins
 
 # Build settings
 markdown: kramdown
