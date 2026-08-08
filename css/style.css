@@ -1132,6 +1132,11 @@ table tfoot {
 			color: #bbb;
 		}
 
+		#footer .icons li .icon:before,
+		#footer .icons li .ai {
+			font-size: 1.8em;
+		}
+
 
 		#footer .icons {
 		    padding: 0;
@@ -1146,6 +1151,48 @@ table tfoot {
 		#footer .icons li {
 		    display: inline-block;
 		}
+
+
+/* ==========================================================================
+   TEAM GRID
+   ========================================================================== */
+
+.team-grid {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 2.5em 4em;
+	margin: 2em 0 0 0;
+}
+
+.team-member {
+	text-align: center;
+	width: 160px;
+}
+
+.team-member h4 {
+	white-space: nowrap;
+}
+
+.team-member .team-photo {
+	width: 140px;
+	height: 140px;
+	border-radius: 100%;
+	object-fit: cover;
+	background: #eee;
+	margin: 0 0 0.75em 0;
+}
+
+.team-member h4 {
+	margin: 0 0 0.2em 0;
+}
+
+.team-member .role {
+	font-size: 0.85em;
+	color: #999;
+	margin: 0;
+	text-align: center;
+}
 
 
 
